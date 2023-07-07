@@ -1,4 +1,4 @@
-**Using ReactJs, write a solution that does the following: **
+**Using ReactJs, write a solution that does the following:**
 
 1. Render a button on dom 
 
